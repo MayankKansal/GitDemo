@@ -16,8 +16,6 @@ public class Palindrome {
 		if (check.equalsIgnoreCase(str))
 		{
 			System.out.println("plaindrome");
-			System.out.println("Plaindrome2");
-			System.out.println("new change");
 			
 		}else
 		{
