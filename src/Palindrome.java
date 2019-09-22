@@ -17,6 +17,8 @@ public class Palindrome {
 		{
 			System.out.println("plaindrome");
 			System.out.println("Plaindrome2");
+			System.out.println("new change");
+			
 		}else
 		{
 		System.out.println("Not a plaindrome");
