@@ -10,7 +10,9 @@ public class arrayBasic {
 			{
 				System.out.println("index of 8th "+ i);
 				System.out.println("chnage 1");
+				//test status
 				System.out.println("changes1.1");
+				System.out.println("changes 2.1");
 				break;
 				
 			}
