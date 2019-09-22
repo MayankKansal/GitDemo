@@ -11,6 +11,18 @@ public class Gitcheck {
 	public void third() {
 		System.out.println("third");
 	}
+	public void fourth() {
+		System.out.println("fourth");
+	}
+
+	public void fifth() {
+		System.out.println("fifith");
+	}
+
+	public void sixth() {
+		System.out.println("sixth");
+	}
+
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
