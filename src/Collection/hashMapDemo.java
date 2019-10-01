@@ -16,12 +16,13 @@ public class hashMapDemo {
 		hs.put(1, "first");
 		hs.put(2, "second");
 		System.out.println(hs);
+		hs.put(3, null);
 		
 		hs.replace(2, "newtwo");
 		System.out.println(hs);
 		
 		System.out.println(hs.get(2));
-		System.out.println(hs.get(21));
+		System.out.println(hs.get(3));
 		
 	Set s =	hs.entrySet();
 	Iterator it =s.iterator();
